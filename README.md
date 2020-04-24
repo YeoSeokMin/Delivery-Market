@@ -1,3 +1,4 @@
 # Delivery-Market
 [Demo Link](https://yeoseokmin.herokuapp.com/)
-### ID : Guest / Password : 1234
+### ID : Guest
+### Password : 1234
