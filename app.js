@@ -80,6 +80,6 @@ app.post('/auth/login', function(req, res){
     }
     res.send(uname);
 });
-app.listen(3000, function(){
+app.listen(8080, function(){
     console.log('127.0.0.1:3000 으로 시작');
 });
